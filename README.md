@@ -5,7 +5,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">ferramentas </a>|
+  <a href="#-tecnologias">Ferramentas </a>|
   <a href="#-layout">Layout</a>&nbsp;
 </p>
 
@@ -19,7 +19,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="calendario da copa" src=".github/capa.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Ferramentas
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
